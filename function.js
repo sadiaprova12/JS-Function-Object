@@ -8,3 +8,6 @@ function startFan(){
 // call the function
 
 startFan();
+console.log('Waking up in the morning');
+startFan();
+console.log('Eating Lunch');
