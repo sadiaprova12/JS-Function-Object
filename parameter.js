@@ -19,4 +19,9 @@ function bringSingara(money){
     console.log('How much? Tk:',money);
 }
 
-bringSingara(100);
+//bringSingara(100);
+
+// Another variable using
+var taka = 100;
+
+bringSingara(taka);
