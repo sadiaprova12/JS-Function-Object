@@ -24,4 +24,13 @@ function bringSingara(money){
 // Another variable using
 var taka = 100;
 
-bringSingara(taka);
+// bringSingara(taka);
+
+// Ekadik Parameter process
+
+function add(num1,num2){
+    // ekadik console log o deya jay
+    console.log('Going to add:', num1, num2)
+}
+
+add(125, 96);
