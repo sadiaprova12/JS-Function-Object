@@ -22,3 +22,4 @@ var myComputer = {
 
 // console.log(myComputer.price);
 console.log(myComputer.brand);
+console.log(mobile.brand);
