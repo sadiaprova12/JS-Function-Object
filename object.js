@@ -22,4 +22,8 @@ var myComputer = {
 
 // console.log(myComputer.price);
 console.log(myComputer.brand);
-console.log(mobile.brand);
+// how to setup value maan 
+myComputer.processor = 'i59';
+console.log(myComputer);
+// console.log(mobile.brand);
+
