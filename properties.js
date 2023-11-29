@@ -15,5 +15,13 @@ var penCount = shoppingCart.pen;
 // dynamic way te joto properties ase sob array akare peye jacchi
 var penCount2 = shoppingCart['pen'];
 
+var propertyName = 'books';
+
+var propertyValue = shoppingCart[propertyName]
+console.log(propertyName, propertyValue);
+
 var properties = Object.keys(shoppingCart);
-console.log(properties);
+// console.log(properties);
+// console.log(propertyName);
+// console.log(propertyValue);
+
