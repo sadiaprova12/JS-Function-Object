@@ -25,3 +25,10 @@ var properties = Object.keys(shoppingCart);
 // console.log(propertyName);
 // console.log(propertyValue);
 
+
+// set property values
+shoppingCart.mouse = 15;
+console.log(shoppingCart);
+shoppingCart['mouse'] = 29;
+console.log(shoppingCart);
+
