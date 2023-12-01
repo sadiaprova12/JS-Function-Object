@@ -31,4 +31,5 @@ shoppingCart.mouse = 15;
 console.log(shoppingCart);
 shoppingCart['mouse'] = 29;
 console.log(shoppingCart);
-
+shoppingCart[propertyName] = 89;
+console.log(shoppingCart);
