@@ -26,6 +26,6 @@ const values = Object.values(shoppingCart);
 console.log(values);
 
 // var keys = [ 'books', 'sunglass', 'keyboard', 'mouse', 'pen', 'shoes' ]
-for (var i = 0; i > keys.length; i++){
+for (var i = 0; i < keys.length; i++){
     console.log(keys[i])
 }
