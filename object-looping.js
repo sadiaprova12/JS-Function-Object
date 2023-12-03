@@ -30,6 +30,11 @@ for (var i = 0; i < keys.length; i++){
     // console.log(keys[i])
     var propertyName = keys[i];
     var propertyValue = shoppingCart[propertyName];
-    console.log(propertyName);
+    // console.log(propertyName);
 }
 
+// for in loop
+for(var propertyName in shoppingCart){
+    const values = shoppingCart[propertyName];
+    console.log(propertyName);
+}
